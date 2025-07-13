@@ -12,7 +12,7 @@ It is a basic project that performs simple arithmetic operations like addition, 
 ## 🚀 Live Preview
 
 [🔗 Click here to view the live site]( https://codingwithmahim.github.io/My-Own-Calculator/)  
-*(Replace this link with your actual GitHub Pages link)*
+
 
 ---
 
