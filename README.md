@@ -11,7 +11,7 @@ It is a basic project that performs simple arithmetic operations like addition, 
 
 ## 🚀 Live Preview
 
-[🔗 Click here to view the live site](https://yourusername.github.io/your-repo-name/)  
+[🔗 Click here to view the live site]( https://codingwithmahim.github.io/My-Own-Calculator/)  
 *(Replace this link with your actual GitHub Pages link)*
 
 ---
@@ -51,7 +51,7 @@ It is a basic project that performs simple arithmetic operations like addition, 
 
 **Mahim Islam**  
 📧 Email: your- mm.mahim9876@gmail.com
-🌍 Portfolio: [your-portfolio-link](#)
+🌍 Portfolio: [ https://codingwithmahim.github.io/Fisrt_website/](#)
 
 ---
 
