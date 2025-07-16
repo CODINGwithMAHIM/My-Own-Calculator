@@ -50,7 +50,7 @@ It is a basic project that performs simple arithmetic operations like addition, 
 ## ✍️ Author
 
 **Mahim Islam**  
-📧 Email: your- mm.mahim9876@gmail.com
+📧 Email:- mm.mahim9876@gmail.com
 🌍 Portfolio: [ https://codingwithmahim.github.io/Fisrt_website/](#)
 
 ---
